@@ -1,0 +1,2 @@
+# mospinner
+jquery spinner plugin
